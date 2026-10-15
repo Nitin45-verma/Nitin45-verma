@@ -39,7 +39,7 @@ I am a passionate **Full Stack MERN Developer** based in Jaipur, India. I specia
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nitin45-verma&show_icons=true&theme=tokyonight&count_private=true" alt="Nitin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin45-verma&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin45-verma&layout=compact&theme=tokyonight&hide=html,css,dockerfile" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
